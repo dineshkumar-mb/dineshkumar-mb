@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼 Full-Stack Developer with 3+ years of professional experience<br>* ⚛️ Strong expertise in React.js, Redux Toolkit, Zustand, React Query, and modern frontend architectures<br>* 🔥 Building AI-powered products using Gemini, LLMs, Automation Workflows, and Generative AI<br>* 🌱 Currently learning TypeScript, Advanced System Design, and Cloud-Native Development<br>* 🏗️ Creator of multiple end-to-end applications including FinTech, HRMS, Collaboration Tools, Workflow Automation Systems, and Visual IDE Platforms<br>* 🎯 Actively preparing for Full-Stack Developer opportunities
+💼 Full-Stack Developer with 4+ years of professional experience<br>* ⚛️ Strong expertise in React.js, Redux Toolkit, Zustand, React Query, and modern frontend architectures<br>* 🔥 Building AI-powered products using Gemini, LLMs, Automation Workflows, and Generative AI<br>* 🌱 Currently learning TypeScript, Advanced System Design, and Cloud-Native Development<br>* 🏗️ Creator of multiple end-to-end applications including FinTech, HRMS, Collaboration Tools, Workflow Automation Systems, and Visual IDE Platforms<br>* 🎯 Actively preparing for Full-Stack Developer opportunities
 
 
 ## 🌐 Socials:
